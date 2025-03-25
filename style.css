@@ -6,8 +6,9 @@ body {
 }
 
 hr{
-    height: 10px;
+    height: 3px;
     width: 30rem;
+    background-color: #bb450e;
 }
 
 
